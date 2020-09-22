@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-739aaf6a"],{"2a5a":function(o,a,n){"use strict";n.r(a),n.d(a,"GetRoomList",(function(){return c}));var t=n("f58c");function c(o){return Object(t["a"])({url:"/dashboard/rooms",method:"get",params:{roomType:o}})}},f58c:function(o,a,n){"use strict";var t=n("22ce"),c=t["c"];a["a"]=c}}]);

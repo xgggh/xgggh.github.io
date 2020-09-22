@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2084ac"],{a3bf:function(n,w){一人一句名言}}]);
